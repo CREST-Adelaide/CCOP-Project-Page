@@ -1,0 +1,18 @@
+---
+title: Executive Cyber Dashboard
+subtitle: CCOP Representation
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: ccop_dashboard.png
+thumbnail: ccop_dashboard-thumbnail.png
+alt: ccop_dashboard
+project-date: April 2014
+client: Start Bootstrap
+category: CCOP Interface
+description: Design, development, and evaluation of a dashboard for presenting CCOP information. This dashboard is designed based on the empirical input from experts and executives. 
+---
+
+# Project Members
+
+Liuyue (William) Jiang

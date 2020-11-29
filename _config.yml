@@ -1,29 +1,97 @@
+# url: https://127.0.0.1
+# baseurl: ""
+
+url: https://127.0.0.1
+baseurl: ""
+
 # Site settings
-title: Grayscale
+title: CCOP
 email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Cyber Common Operating Picture Project Home Page"
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
 
-# Footer settings
-footer: Your Website
+# Team names, titles and social links
+people:
+- name: Prof. M. Ali Babar
+  pic: ali
+  position: Project Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/alibabar
+
+- name: Dr. Mansooreh Zahedi
+  pic: mansooreh
+  position: Researcher - Socio-Technical
+  social:
+    - title: twitter
+      url: https://twitter.com/MansoorehZ
+
+- name: Dr. Asangi Jayatilaka
+  pic: asangi
+  position: Researcher - Socio-Technical
+  social:
+    - title: twitter
+      url: https://twitter.com/DrAsangiJ
+
+- name: Dr. Nguyen Khoi Tran
+  pic: nguyen
+  position: Researcher - Architecture
+  social:
+    - title: twitter
+      url: https://twitter.com/GenTran91
+
+- name: Liuyue (William) Jiang
+  pic: liuyue
+  position: PhD. Student - Lead Engineer
+  social:
+    - title: twitter
+      url: https://twitter.com/williamjiangau
+
+- name: Anupam . 
+  pic: avatar-placeholder
+  position: Research Engineer
+  social:
+    - title: twitter
+      url: https://twitter.com/williamjiangau
+  
+- name: Yuan Zhang
+  pic: avatar-placeholder
+  position: Research Engineer
+  social:
+    - title: twitter
+      url: https://twitter.com/williamjiangau
+
+- name: Aditya Pujara
+  pic: avatar-placeholder
+  position: Summer Research Scholarship Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+- name: Kieren Funk
+  pic: avatar-placeholder
+  position: Summer Research Scholarship Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+- name: Shayla Nguyen
+  pic: avatar-placeholder
+  position: Summer Research Scholarship Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://twitter.com/crest_uofa
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: The University of Adelaide
+  - line: Ingkarni Wardli
+  - line: Adelaide SA 5005
 
 # Build settings
 markdown: kramdown

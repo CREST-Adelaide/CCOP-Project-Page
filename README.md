@@ -1,13 +1,36 @@
-Grayscale Jekyll theme
-=========================
+CREST / CSCRC CCOP Project Homepage
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+This is the homepage of the CCOP project. It presents an overview of CCOP project, its ongoing sub-projects, its roadmap, and a list of its members. 
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+This website is built on the Agency Jekyll theme and hosted using GitHub Page. The original readme of the theme is included below. 
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+Agency Jekyll theme
+====================
+
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+
+# How to use
+
+###Portfolio 
+
+Portfolio projects are in '/_posts'
+
+Images are in '/img/portfolio'
+
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+For more details, read [documentation](http://jekyllrb.com/)

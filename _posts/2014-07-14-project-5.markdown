@@ -1,0 +1,27 @@
+---
+title: Metrics Recommendation
+subtitle: Analytics and Intelligence
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: metrics_rec.jpg
+thumbnail: metrics_rec-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Analytics and Intelligence
+description: Design, develop, and evaluate mechanism for automatically recommend cyber security metrics to organizations to use in CCOP based in their existing capabilities.
+---
+
+# Overview
+Cyber Common Operating Picture (CCOP) comprises security metrics that reflect the cyber-health of an organization with respect to its historical performance and the industry standard. These metrics are generated from various sources of security intelligence, such as reports from security tools (e.g., SIEM, IDS, firewalls) as well as external intelligence sources (e.g, Open-source intelligence, vulnerability registries). Each organization has different level of access to these sources. Moreover, they have different requirements in terms of the metrics to be included in the CCOP and the relative importance of these metrics. 
+
+Given the large number of metrics that can be used for CCOP, it is difficult for organizations to map their current capabilities, in terms of the security intelligence sources that they have, to the metrics. Moreover, the requirements of an organization might simply be insatisfiable given their existing capability. Thus, the organization needs recommendations on either extending their capability or modifying their requirements. A CCOP-specific recommendation system that can solve this problem does not exist.
+
+This research activity aims at applying Artificial Intelligence (AI) techniques, such as semantic reasoning and collaborative filtering, to develop a recommendation mechanism that matches organizations with the right metrics in the CCOP model and provides suggestions about extending capabilities or modifying requirements. 
+
+# Aims and Expected Outcomes
+
+The expected outcomes will be: 
+
+- An AI-enabled prototype tool for providing organizational specific security metrics recommendation services that would become part of the CCOP platform

@@ -1,0 +1,22 @@
+---
+title: Platform Architecture
+subtitle: CCOP Platform
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: ccop_architecture.jpg
+thumbnail: ccop_architecture-thumbnail.jpg
+alt: ccop-architecture
+project-date: April 2014
+client: Start Bootstrap
+category: CCOP Platform
+description: Design, develop, and maintain the architecture of CCOP platform to ensure its flexibility and stability.
+---
+
+# Project Team
+
+Nguyen Khoi Tran
+
+Liuyue (William) Jiang
+
+Anupam .

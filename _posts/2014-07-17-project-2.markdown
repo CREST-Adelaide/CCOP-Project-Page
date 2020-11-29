@@ -1,0 +1,21 @@
+---
+title: Automatic Metric Calculation
+subtitle: CCOP Platform
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: metric_gen.png
+thumbnail: metric_gen-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: CCOP Platform
+description: Design, develop, and evaluate a mechanism to automate the calculation of cyber security metrics based on a graphical model. 
+---
+Cyber Security health of an organization is a reflection of multiple indicators, which are measured by security systems such as Intrusion Detection System (IDS), Security Information and Event Management (SIEM), as well as human processes such as phishing awareness campaigns. The agglomeration of these security metrics forms the Common Cyber Operating Picture (CCOP) of the organization. From this shared data entity, multiple views can be instantiated corresponding to the requirements of the stakeholders. For instance, executives require strategy-level metrics for decision making, security officers require full details of operation-level metrics, while normal staffs would need to know the security stance of the organization to adjust their behaviours.
+
+In general, organizations have their own security indicators, sources, and models of how indicators are fused into a CCOP. These models must be implemented as software programs in practice. This process can be error-prone and inefficient, especially if it has to be repeated in multiple organizations. This project aims to design, develop, and evaluate an automation framework called CCOP-Fuse to automate the process of fusing security metrics into CCOP.
+
+# Project Members
+
+Anupam . 

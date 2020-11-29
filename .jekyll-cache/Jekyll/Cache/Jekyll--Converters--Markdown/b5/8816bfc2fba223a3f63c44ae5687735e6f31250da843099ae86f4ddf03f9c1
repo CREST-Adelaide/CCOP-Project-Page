@@ -1,0 +1,15 @@
+I"ê<h1 id="overview">Overview</h1>
+
+<p>Cyber Common Operating Picture (CCOP) comprises a set of metrics, coming from different security intelligence sources. One of the current means of displaying a CCOP is executive dashboards, which were carefully designed to display the right kind of metrics at an appropriate level of detail. While these dashboards can be tailored to individual organizations, or even individual executives, they can only narrow down the available information of the CCOP to a more manageable level instead of providing the very specific information that executives seek within a specific context. Moreover, when using these dashboards, executives need to examine and analyze the security status details themselves instead of having an assistant to offer them what they need and useful recommendations for making security decisions.</p>
+
+<p>This research activity will explore the ways we can apply semantic modelling, logic reasoning, and information retrieval technique to retrieve and return the precise information that executives need within a context.</p>
+
+<h1 id="aims-and-expected-outcomes">Aims and Expected Outcomes</h1>
+
+<p>The key outcomes of will be:</p>
+
+<ul>
+  <li>Develop a mechanism to understand natural language requests from executives and return an appropriate set of information from the CCOP model that satisfies the request.</li>
+  <li>Integrate this mechanism into an open-source voice assistant platform such as Mycroft AI, Open Assistant, LinTO, Leon, etc.</li>
+</ul>
+:ET
