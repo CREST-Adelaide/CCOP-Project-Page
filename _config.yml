@@ -53,16 +53,9 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/williamjiangau
-  
-- name: Yuan Zhang
-  pic: avatar-placeholder
-  position: Research Engineer
-  social:
-    - title: twitter
-      url: https://twitter.com/williamjiangau
 
 - name: Aditya Pujara
-  pic: avatar-placeholder
+  pic: aditya
   position: Summer Research Scholarship Student
   social:
     - title: twitter
